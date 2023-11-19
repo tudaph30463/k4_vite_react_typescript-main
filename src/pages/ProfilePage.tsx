@@ -15,11 +15,11 @@ const LoginPage = () => {
         </div>
         <div className="mt-8 text-center">
           <h2 className="text-white font-bold text-2xl tracking-wide">
-            Lương Chính Quốc
+            Đỗ Anh Tú
           </h2>
         </div>
-        <p className="text-emerald-400 font-semibold mt-2.5 text-center">21 Year Old</p>
-        <p className="text-blue-400 font-semibold mt-2.5 text-center">CAO BANG</p>
+        <p className="text-emerald-400 font-semibold mt-2.5 text-center">25 Year Old</p>
+        <p className="text-blue-400 font-semibold mt-2.5 text-center">Hà Nội</p>
         <div className="mt-3 text-white text-sm">
           <span className="text-gray-400 font-semibold">My Skills:</span>
 
@@ -58,11 +58,11 @@ const LoginPage = () => {
                 <span>PHP</span>
               </div>
               <div>
-                <span>40%</span>
+                <span>60%</span>
               </div>
             </div>
             <div className="h-1 w-full bg-black mt-[5px] rounded-full">
-              <div className="h-1 rounded-full w-[40%] bg-yellow-500 " />
+              <div className="h-1 rounded-full w-[60%] bg-yellow-500 " />
             </div>
           </div>
         </div>
