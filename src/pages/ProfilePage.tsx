@@ -3,11 +3,11 @@ const LoginPage = () => {
       <section className=" bg-[#071e34] flex font-medium items-center justify-center h-full py-[10%]">
       <section className=" w-[40%]  mx-auto bg-[#20354b] rounded-2xl px-8 py-6 shadow-lg">
         <div className="flex items-center justify-center">
-          <span className="text-gray-400 text-sm">Profile</span>
+          <span className="text-gray-400 text-sm">PROFILE</span>
         </div>
         <div className="mt-6 w-fit mx-auto">
           <img
-            src="https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/378229932_708960944407464_1201804895590157296_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE7b0pp45UK0x_UGDNetAqn_K2aKfcMGhD8rZop9wwaEKWC7pD7xwHL5YU5Bz_r7Hx6iMP9Fhm6r22f9gGZlZov&_nc_ohc=8r0B6uvQEYgAX_URl8O&_nc_ht=scontent.fhan14-2.fna&oh=00_AfA-nfVltJq6eGo8PLtip5Pktd_ZnFEbKc9caFXbMMysEw&oe=655B4468"
+            src="https://www.facebook.com/photo/?fbid=2322085898075134&set=a.1383356698614730"
             className="rounded-full w-28 "
             alt="profile picture"
             srcSet=""
