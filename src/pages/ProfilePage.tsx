@@ -7,7 +7,7 @@ const LoginPage = () => {
         </div>
         <div className="mt-6 w-fit mx-auto">
           <img
-            src="https://www.facebook.com/photo/?fbid=2322085898075134&set=a.1383356698614730"
+            src="https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-6/327283070_5932197320228899_144403343390726803_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=7arM0NyFgUYAX_Ffb5-&_nc_ht=scontent.fhan2-4.fna&oh=00_AfA65bA__Kk9BoQ64fuzqy4RrcShfeuE5WRCasCTc_ansQ&oe=6560008A"
             className="rounded-full w-28 "
             alt="profile picture"
             srcSet=""
